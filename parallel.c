@@ -19,11 +19,6 @@ void normalize_all(double data[COLUMNS][ROWS]);
 
 int main()
 {
-    // #pragma omp parallel shared (argv, argc ) private (i,id)
-    // {
-    //     tid=omp_get_thread_num();
-
-    // }
     double data[COLUMNS][ROWS];
     generate_data(data);
     pthread_t thread_id[COLUMNS];
