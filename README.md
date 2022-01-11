@@ -1,9 +1,9 @@
 # mca
 team members:</br>
     Asrar farooq bhat 1MS18CS032</br>
-    Apurva Dewangan   1MS18CS</br>
-    kaushik dhulipala 1MS18CS042/br>
-    fayyaz mohammad   1MS18CS/br>
+    Apurva Dewangan   1MS18CS023</br>
+    kaushik dhulipala 1MS18CS042</br>
+    fayyaz mohammad   1MS18CS045</br>
    
    description:
       this repo contains the sequential and 
