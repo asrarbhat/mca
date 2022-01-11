@@ -1,6 +1,5 @@
 # mca
-mca assignment:</br>
-  team members:</br>
+team members:</br>
     Asrar farooq bhat 1MS18CS032</br>
     Apurva Dewangan   1MS18CS</br>
     kaushik dhulipala 1MS18CS042/br>
