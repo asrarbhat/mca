@@ -1,10 +1,10 @@
 # mca
-mca assignment:
-  team members:
-    Asrar farooq bhat 1MS18CS032
-    Apurva Dewangan   1MS18CS
-    kaushik dhulipala 1MS18CS042
-    fayyaz mohammad   1MS18CS
+mca assignment:</br>
+  team members:</br>
+    Asrar farooq bhat 1MS18CS032</br>
+    Apurva Dewangan   1MS18CS</br>
+    kaushik dhulipala 1MS18CS042/br>
+    fayyaz mohammad   1MS18CS/br>
    
    description:
       this repo contains the sequential and 
