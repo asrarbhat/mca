@@ -11,9 +11,9 @@ team members:</br>
       and the link below is for
       the video presentation.
       
-    result:</br>
-        LINEAR INCREMENT IN PERFORMANCE</br>
-        newtime= c * oldtime </br>
+    result:
+        LINEAR INCREMENT IN PERFORMANCE
+        newtime= c * oldtime
         
 
 https://drive.google.com/drive/folders/1MVDzPHBrJ2uwtEtkPZMGQB94IpG-RCNM?usp=sharing
