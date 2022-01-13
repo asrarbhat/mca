@@ -10,5 +10,10 @@ team members:</br>
       parallel code,and a bash script for analysis
       and the link below is for
       the video presentation.
+      
+    result:</br>
+        LINEAR INCREMENT IN PERFORMANCE</br>
+        newtime= c * oldtime </br>
+        
 
 https://drive.google.com/drive/folders/1MVDzPHBrJ2uwtEtkPZMGQB94IpG-RCNM?usp=sharing
